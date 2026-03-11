@@ -33,6 +33,18 @@ The objective of this project is to demonstrate practical data analyst skills in
 - Sales fluctuate across months, indicating **seasonal demand patterns**.
 
 ## Repository Structure
+
+Sales-Performance-Dashboard
+│
+├── README.md
+├── dashboard.png
+│
+├── SQL
+│   └── queries.sql
+│
+└── PowerBI
+    └── Sales_Performance_Dashboard.pbix
+    
 ## Skills Demonstrated
 
 - SQL data querying and aggregation
@@ -40,3 +52,4 @@ The objective of this project is to demonstrate practical data analyst skills in
 - Power BI dashboard development
 - Data visualization
 - Business insight communication
+
