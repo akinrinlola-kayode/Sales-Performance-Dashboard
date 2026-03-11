@@ -1,66 +1,35 @@
-\#Sales Performance Dashboard
+# Sales Performance Dashboard
 
+![Dashboard Screenshot](dashboard.png)
 
+## Project Overview
 
-Project Overview
+This project analyzes retail sales data using SQL Server and Power BI.  
+The goal is to track sales performance, identify profitable regions, and determine top performing products using an interactive dashboard.
 
+## Tools Used
 
+- SQL Server
+- SQL
+- Power BI
 
-This project analyzes retail sales data using SQL Server and Power BI.
+## Key Metrics
 
-The goal is to track sales performance, identify profitable regions, and determine top performing products.
+- Total Sales
+- Total Profit
+- Profit Margin
 
+## Dashboard Visualizations
 
+- Sales by Region (Bar Chart)
+- Monthly Sales Trend (Line Chart)
+- Top 10 Products by Sales (Table)
+- KPI Cards for Sales, Profit, and Profit Margin
 
-Tools Used:
+## Key Insights
 
+- The **West region generates the highest sales revenue**.
+- **Technology products contribute significantly to overall profit**.
+- Sales fluctuate across months, indicating **seasonal demand patterns**.
 
-
-SQL Server
-
-SQL
-
-Power BI
-
-
-
-Key Metrics:
-
-
-
-Total Sales
-
-Total Profit
-
-Profit Margin
-
-
-
-These are the KPI cards you created.
-
-
-
-Dashboard Visualizations:
-
-
-
-Sales by Region (bar chart)
-
-Monthly Sales Trend (line chart)
-
-Top 10 Products by Sales (table)
-
-KPI Cards for Sales, Profit, and Profit Margin
-
-
-
-Key Insights:
-
-
-
-The West region generates the highest sales revenue.
-
-Technology products contribute significantly to overall profit.
-
-Sales fluctuate across months indicating seasonal demand patterns.
-
+## Repository Structure
